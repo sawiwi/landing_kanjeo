@@ -9,16 +9,16 @@ export const NavigationData = [
     {
         id: 2,
         name: 'Nosotros',
-        path: '/about'
+        path: '/nosotros'
     },
     {
         id: 3,
         name: 'Servicio',
-        path: '/services'
+        path: '/servicios'
     },
     {
         id: 4,
         name: 'Contacto',
-        path: '/contact'
+        path: '/contacto'
     },
 ]

@@ -12,14 +12,14 @@ module.exports = {
     },
     colors: {
       primary:{
-        default:'#fff3f1',
-        opacity:'#fff3f1d4',
-        light:'#ffeae7'
+        default:'#fefdfc',
+        opacity:'#fefdfcd4',
+        light:'#f9f4ed'
       },
       secondary:{
-        default:'#00667a',
-        opacity:'#00667ad4',
-        light:'#0087a2'
+        default:'#242530',
+        opacity:'#242530d4',
+        light:'#3a3b4e'
       }
     }
   },
